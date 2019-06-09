@@ -16,6 +16,7 @@
 * Run it (lein) and it will download the self-install package
 
 # Run the App
+* Clone this repo
 * Navigate to the proj directory
 * type `lein run` followed by a phrase e.g `lein run Hey, thar`
 * You should now have a serpent responding!!
