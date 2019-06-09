@@ -20,3 +20,8 @@
 * Navigate to the proj directory
 * type `lein run` followed by a phrase e.g `lein run Hey, thar`
 * You should now have a serpent responding!!
+
+# See my marvelous test pass
+* navigate to proj directory
+* run `lein test`
+* Witness the aweshomeness
